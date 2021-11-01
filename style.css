@@ -1,0 +1,45 @@
+
+body{
+  text-align: center;
+   background-image: url("https://www.pixelstalk.net/wp-content/uploads/images4/Scary-Halloween-Background-1-1.jpg");
+   }
+h1{
+ color: Orange;
+ background-color: Black;}
+
+h2{
+color: Orange;
+background-color: Black;}
+
+table{
+  color: orange;
+}
+
+th, td {
+  background-color: #white;
+  color: orange;
+  border-style: solid;
+  border-color: orange;
+}
+
+table {
+width:100%;
+}
+
+.clown:hover{
+  filter: contrast(200000%);
+}
+
+.momo{
+border-radius: 50%;
+}
+
+.eyes:hover{
+filter: brightness(200%);
+}
+
+h1{
+  font-family: "Arial", Times, serif;
+}
+
+h1{font-size: 64px}
